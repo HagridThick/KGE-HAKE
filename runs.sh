@@ -75,3 +75,5 @@ CUDA_VISIBLE_DEVICES=$GPU_DEVICE python -u $CODE_PATH/runs.py --do_test -init $S
 else
    echo "Unknown MODE" $MODE
 fi
+
+cmd /k.

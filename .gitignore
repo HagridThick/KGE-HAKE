@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+models/HAKE_FB15k-237_0/checkpoint
+*.npy
+models/HAKE_wn18rr_0/checkpoint
