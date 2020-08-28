@@ -105,3 +105,5 @@ venv.bak/
 models/HAKE_FB15k-237_0/checkpoint
 *.npy
 models/HAKE_wn18rr_0/checkpoint
+data/newFB15k-237/train.txt
+models/HAKE_newFB15k-237_0/checkpoint
