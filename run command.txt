@@ -6,3 +6,22 @@ runs.sh train HAKE wn18rr 0 0 512 512 500 6.0 0.5 0.00005 80000 8 0.5 0.5
 
 
 runs.sh train HAKE newFB15k-237 0 0 1024 128 1000 9.0 1.0 0.00005 100000 16 3.5 1.0
+
+
+
+#wn18-e
+runs.sh train HAKE wn18_e 0 0 512 512 500 6.0 0.5 0.00005 60000 8 0.5 0.5
+
+#fb15k-e
+runs.sh train HAKE FB15k_e 0 0 1024 128 1000 9.0 1.0 0.00005 80000 16 3.5 1.0
+
+
+#fb15k-237 combine
+runs.sh train HAKE FB15K-237-combine 0 0 1024 128 1000 9.0 1.0 0.00005 60000 16 3.5 1.0
+
+
+
+#wn18
+runs.sh train HAKE wWN18 0 0 512 512 500 6.0 0.5 0.00005 60000 8 0.5 0.5
+#fb15k
+runs.sh train HAKE FB15K 0 0 1024 128 1000 9.0 1.0 0.00005 80000 16 3.5 1.0

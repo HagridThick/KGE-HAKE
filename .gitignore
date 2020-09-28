@@ -107,3 +107,10 @@ models/HAKE_FB15k-237_0/checkpoint
 models/HAKE_wn18rr_0/checkpoint
 data/newFB15k-237/train.txt
 models/HAKE_newFB15k-237_0/checkpoint
+models/HAKE_wn18_e_0/checkpoint
+models/HAKE_wn18_1_0/checkpoint
+models/HAKE_wn11_e_0/checkpoint
+models/HAKE_wn11_0/checkpoint
+models/HAKE_FB15k_e_0/checkpoint
+models/HAKE_FB15K_1_0/checkpoint
+models/HAKE_FB15k-237-combine_0/checkpoint
