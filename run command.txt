@@ -39,3 +39,9 @@ runs.sh train HAKE NELL-995 0 0 200 256 256 6.0 0.5 0.00005 80000 8 0.5 0.5
 
 #nell995
 runs.sh train Rotate NELL-995 0 0 400 128 256 9.0 1.0 0.00005 100000 16 -de
+
+#fb15k-dedup
+runs.sh train HAKE FB15K-dedup 0 0 1024 128 1000 9.0 1.0 0.00005 80000 16 3.5 1.0
+
+#fb15k
+runs.sh train HAKE FB15K 0 0 1024 128 1000 9.0 1.0 0.00005 80000 16 3.5 1.0

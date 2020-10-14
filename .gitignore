@@ -116,3 +116,5 @@ models/HAKE_FB15K_1_0/checkpoint
 models/HAKE_FB15k-237-combine_0/checkpoint
 models/HAKE_NELL-995-0.1_0/checkpoint
 models/HAKE_NELL-995_0/checkpoint
+models/HAKE_FB15K-dedup_0/checkpoint
+models/HAKE_FB15K_0/checkpoint
